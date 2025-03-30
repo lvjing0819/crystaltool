@@ -1,0 +1,5 @@
+==> 2024-10-04 14:02:56 <==
+# cmd: /opt/miniconda3/lib/python3.12/site-packages/conda/__main__.py create --yes --prefix .conda python=3.10
+# conda version: 24.7.1
++defaults/osx-64::bzip2-1.0.8-h6c40b1e_6
+# update specs: ['python=3.10']
